@@ -8,7 +8,8 @@ Passos
 	[ok]2º Criar pontos aleatóreos para a posição da cobrinha e da comida
 	[OK]3º Adicionar movimento na cobrinha
 	[OK]4º Detectar colisão com comida
-	[  ]5º Crescer conforme come
-	[  ]6º Detectar colisão com proprio corpo
-	[  ]7º Criar pontuação
+	[ok]5º Crescer conforme come
+	[Ok]6º Detectar colisão com proprio corpo
+	[Ok]7º Criar pontuação
 	[  ]8º Criar ranking.
+	[  ]9º Adicionar Sons
